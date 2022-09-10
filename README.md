@@ -16,4 +16,4 @@ PROJECT RESULTS:
 • Evaluation Deepening: Silhouette Score, Accuracy, Purity, Rand Index, Adjusted Rand Index, Davies-Bouldin Index
 • Final Decision Analysis of the best algorithm given my collected data.
 
-Project Repository: https://github.com/alessioborgi/Deep_Dive_into_the_Clustering_World
+PROJECT REPOSITORY: https://github.com/alessioborgi/Deep_Dive_into_the_Clustering_World
