@@ -1,4 +1,4 @@
-# Deep_Dive_into_the_Clustering_World
+# Clustering Deepening
 
 **Copyright © 2022 Alessio Borgi**
 
