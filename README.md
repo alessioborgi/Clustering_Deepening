@@ -2,7 +2,7 @@
 
 **Copyright © 2022 Alessio Borgi**
 
-**PROJECT SCOPE**: Deepening in the main Clustering Techniques.
+**PROJECT SCOPE**: Deepening in the main Clustering Techniques. An in-depth exploration of clustering algorithms and techniques in machine learning. This project covers a variety of clustering methods, from traditional algorithms like K-Means and DBSCAN to advanced techniques, providing a comprehensive understanding of their applications, strengths, and limitations. Ideal for researchers and practitioners looking to enhance their knowledge of unsupervised learning and data analysis.
 
 **PROJECT RESULTS**: 
 - Data collection through the Performance Monitoring Windows Application (i.e., Built-in dataset). 
